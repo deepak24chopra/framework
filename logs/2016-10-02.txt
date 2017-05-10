@@ -1,0 +1,20 @@
+[02-Oct-2016 18:59:06 UTC] Uncaught Exception: 'Exception' with message 'No route matched'
+Stack Trace '#0 C:\wamp64\www\public\index.php(62): Core\Router->dispatch('products')
+#1 {main}'
+Thrown in 'C:\wamp64\www\Core\Router.php' on line 118
+[02-Oct-2016 18:59:06 UTC] Uncaught Exception: 'Exception' with message 'No route matched'
+Stack Trace '#0 C:\wamp64\www\public\index.php(62): Core\Router->dispatch('favicon.ico')
+#1 {main}'
+Thrown in 'C:\wamp64\www\Core\Router.php' on line 118
+[02-Oct-2016 19:08:19 UTC] Uncaught Exception: 'Exception' with message 'No route matched.'
+Stack Trace '#0 C:\wamp64\www\public\index.php(62): Core\Router->dispatch('products')
+#1 {main}'
+Thrown in 'C:\wamp64\www\Core\Router.php' on line 118
+[02-Oct-2016 19:10:48 UTC] Uncaught Exception: 'Exception' with message 'No route matched.'
+Stack Trace '#0 C:\wamp64\www\public\index.php(62): Core\Router->dispatch('products')
+#1 {main}'
+Thrown in 'C:\wamp64\www\Core\Router.php' on line 118
+[02-Oct-2016 19:10:48 UTC] Uncaught Exception: 'Exception' with message 'No route matched.'
+Stack Trace '#0 C:\wamp64\www\public\index.php(62): Core\Router->dispatch('favicon.ico')
+#1 {main}'
+Thrown in 'C:\wamp64\www\Core\Router.php' on line 118
